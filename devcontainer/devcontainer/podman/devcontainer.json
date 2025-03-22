@@ -1,0 +1,1 @@
+{"name":"DevContainer for Podman","image":"mcr.microsoft.com/vscode/devcontainers/python:3.9","features":{"podman":"latest","python":"latest"}}
