@@ -1,0 +1,1 @@
+{"name":"DevContainer for Docker","image":"mcr.microsoft.com/vscode/devcontainers/python:3.9","features":{"docker":"latest","python":"latest"}}
